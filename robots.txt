@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-fpoges.jutawanbet97isk.cfd/sitemap.xml
